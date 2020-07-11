@@ -5,6 +5,8 @@ Concepts used:
 Inheritance
 Polimorphism
 Abstract Classes and Pur Virtual methods
+Data Abstraction and Encapsulation
+Acces modifiers (public, private, protected)
 Overloading operators (<<, ==, +, etc.)
 Overriding methods (I created and abstract Repository, and two repos RepositoryFile and RepositoryMemory which override pur virtual mehods from RepositoryAbstract)
 Smart pointers (to create an Undo environment I had to use unique_ptr, because my Undo class is abstract and can't be iterate)
