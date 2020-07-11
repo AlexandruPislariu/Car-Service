@@ -1,0 +1,12 @@
+SV07HIZ,Dacia,Logan,Sedan
+a,a,a,a
+b,b,b,b
+z,z,z,z
+j,j,j,j
+d,d,d,d
+da,da,da,da
+f,f,f,f
+k,k,k,k
+l,l,l,l
+m,m,m,m
+h,h,h,h
